@@ -1,3 +1,6 @@
+Brian Lau, Karen Chan
+
+
 cd Downloads/hw4-hotswap
 ls
 docker images // to show that activity, ng, and hw4 exist
